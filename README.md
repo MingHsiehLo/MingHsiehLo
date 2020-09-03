@@ -8,9 +8,9 @@ I'm **Ming, a curious self-taught web developer**. For me, programming it's an a
 
 * I'm currently working on a **Hackademy team proyect as Front-End Dev** using ReactJS. :exclamation:
 
-Proud of: :clap:
- > Finished the intensive **'Codellege'** Front-End bootcamp.
- > Four biotechnology research papers published!
+Proud of:
+ * Finished the intensive **'Codellege'** Front-End bootcamp. :clap:
+ * Four biotechnology research papers published! :clap:
 
 **Let's build something awesome together!** :punch:
 
