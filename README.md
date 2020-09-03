@@ -1,3 +1,6 @@
+## Web Developer
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Hello world! :bowtie:
 
 I'm **Ming, a curious self-taught web developer**. For me, programming it's an amazing never-ending learning journey that I am passionately engaged. :grin: 
