@@ -1,6 +1,6 @@
 ### Hello world! :bowtie:
 
-I'm Ming, a curious self-taught web developer. :boom: For me, programming it's an amazing never-ending learning journey that I am passionately engaged.:grin: 
+I'm Ming, a curious self-taught web developer. For me, programming it's an amazing never-ending learning journey that I am passionately engaged. :grin: 
 
 * So far I have learned and worked with HTML5, CSS3, JavaScript, TypeScript, Angular, PHP, Databases and RESTful services. :blush:
 
@@ -8,8 +8,8 @@ I'm Ming, a curious self-taught web developer. :boom: For me, programming it's a
 
 * I'm currently working on a Hackademy team proyect as Front-End Dev using ReactJS. :exclamation:
 
-* Proud of: :clap:
- - Finished the intensive 'Codellege' Front-End bootcamp.
+Proud of: :clap:
+ `-` Finished the intensive 'Codellege' Front-End bootcamp.
  - Four biotechnology research papers published!
 
 Let's build something awesome together! :punch:
