@@ -4,9 +4,9 @@ I'm **Ming, a curious self-taught web developer**. For me, programming it's an a
 
 * So far I have learned and worked with **HTML5, CSS3, JavaScript, TypeScript, Angular, PHP, Databases and RESTful services**. :blush:
 
-* I'm still enthusiastically learning and improving my Front-End skills! Right now I'm learning **ReactJS** and **CSS preprocessors**. :sunglasses: 
+* Right now I'm learning **ReactJS** and **CSS preprocessors**. :sunglasses: 
 
-* I'm currently working on a **Hackademy team proyect as Front-End Dev** using ReactJS. :exclamation:
+* I'm currently working on a **Hackademy team proyect as Front-End Dev**.
 
 Proud of:
  * Finished the intensive **'Codellege'** Front-End bootcamp. :clap:
