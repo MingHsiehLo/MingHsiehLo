@@ -9,10 +9,11 @@ I'm **Ming, a curious self-taught web developer**. For me, programming it's an a
 * I'm currently working on a **Hackademy team proyect as Front-End Dev**.
 
 Proud of:
- * Finished the intensive **'Codellege'** Front-End bootcamp. :clap:
- * Four biotechnology research papers published! :clap:
+ * Finished the intensive **'Codellege'** Front-End bootcamp. :fire:
+ * Four biotechnology research papers published! :fire:
 
 **Let's build something awesome together!** :punch:
+Feel free to contact me!
 
 <!--
 **MingHsiehLo/MingHsiehLo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
