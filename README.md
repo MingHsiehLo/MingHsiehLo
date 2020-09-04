@@ -8,7 +8,7 @@ I'm **Ming, a curious self-taught web developer**. For me, programming it's an a
 
 * Right now I'm learning **ReactJS** and **CSS preprocessors**. :sunglasses: 
 
-* I'm currently working on a **Hackademy team proyect as Front-End Dev**.
+* *I'm currently working on a **Hackademy team proyect as Front-End Dev***.
 
 Proud of:
  * Finished the intensive **'Codellege'** Front-End bootcamp. :fire:
