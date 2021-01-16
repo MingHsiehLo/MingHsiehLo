@@ -4,12 +4,11 @@
 
 I'm **Ming, a curious self-taught web developer**. For me, programming it's an amazing never-ending learning journey that I am passionately engaged. :grin: 
 
-* So far, I have learned and worked with **HTML5, CSS3, JavaScript, TypeScript, Angular, PHP, Databases and RESTful services**. :blush:
-
-* Right now, I'm learning **ReactJS** and **CSS preprocessors**. :sunglasses: 
+* So far, I have learned and worked with **HTML5, CSS3, JavaScript, TypeScript, ReactJS, Angular, PHP, Databases and RESTful services**. :blush:
 
 Proud of:
- * Finished the intensive **'Codellege'** Front-End bootcamp. :fire:
+ * I finished the intensive **'Codellege'** Front-End bootcamp. :fire:
+ * I worked on a Front-End project as React Dev at **HackademyMX**. :fire:
  * Four biotechnology research papers published! :fire:
 
 **Let's build something awesome together!** :punch:
